@@ -16,7 +16,6 @@
     <img align="center" alt="Luiz-CSS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
     <img align="center" alt="Luiz-JS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
     <img align="center" alt="Luiz-JS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"">
-    <img align="right" alt="Luiz-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/878798939481063478/1035556556563034122/boruto-jougan.gif">
   </div>
 
 ##
